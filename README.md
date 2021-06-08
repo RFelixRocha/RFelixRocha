@@ -1,6 +1,5 @@
 - 👋 Olá, meu nome é R. Felix Rocha
-- 👀 Meu maior interesse é em adquirir conhecimentos na área de tenologia, e também repassa o que estou aprendendo para outras pessoas
-- 🌱 No momento estou aprendendo a linguagem de programação Kotlin
+- 👀 Meu maior interesse é em adquirir conhecimentos na área de tecnologia, e também repassa o que estou aprendendo para outras pessoas.
 - 💞️ Estou procurando por novos desafios tecnológicos
 - 📫 Posso ser encontrado no Linkedin https://www.linkedin.com/in/rfelixrocha e gmail felixrochaeso@gmail.com
 <!---
